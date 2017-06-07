@@ -17,7 +17,7 @@ int main()
 	kcg_int32 rank = 0;
 	kcg_bool consistent = kcg_true;
 
-	int caseNum = 4;
+	int caseNum = 2;
 
 	if (caseNum == 1)
 	{
